@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>hibernate-tutorial-3-one-to-many-mapping</name>
+	<name>hibernate-tutorial-5-one-to-many-unidirectional-mapping</name>
 	<comment></comment>
 	<projects>
 	</projects>
